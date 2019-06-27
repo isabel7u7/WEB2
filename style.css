@@ -1,0 +1,65 @@
+body
+{
+    background-color: rgb(191, 191, 255);
+}
+
+p
+{ 
+    text-align: center;
+    font-size: 30px
+}
+
+
+.anuncio{
+    color: #f88a9c;
+    font-size: 3em;
+    text-align: center
+}
+.titulo{
+    color: rgb(248, 138, 156);
+    font-family: "Corbel";
+    font-size: 7em;
+    text-align: center;
+}
+.chica{
+    margin-left: 400px;
+}
+.texto{ 
+    text-align: center;};
+    
+    .btn-sucess{
+        background-color: lightsalmon;
+    }
+
+  .card-text{
+      font-size: 20px
+  }
+  .card-title{
+      font-weight: bolder;
+font-size: 40px
+  }
+  .card-text{
+      text-align: left;
+    }
+    .btn-murphy{
+        background-color: rgb(49, 146, 49) !important;
+    }
+    .btn-successo{
+        background-color: #f15972 !important;
+    }
+    .btn-successos{
+        background-color: rgb(255, 165, 0) !important;
+    }
+    .btn-secondarye{
+        margin-left: 400px;
+        background-color: rgb(161, 161, 161) !important;
+    }
+    .carouselExampleFade{
+        width: 400px !important;
+        margin: 0 auto !important;
+    
+    }
+    .carro{
+        font-family:"corbel"
+        
+    }
